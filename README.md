@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⚔️ KING's Developer Quest Log
 
-<!--
-**MeKing777/MeKing777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building useful tools for the web, security, and everyday problems.
 
-Here are some ideas to get you started:
+## 🧙 Character sheet
+- **Class:** Software builder
+- **Skill tree:** Python · JavaScript · HTML · WordPress
+- **Play style:** Learn by building, then keep improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Active quests
+- **[Phishing & Spam Guard](https://github.com/MeKing777/phishing-spam-guard)** — A phishing and spam checker with a public web app and local Windows tools. ([Web project](https://github.com/MeKing777/phishing-spam-guard-web))
+- **[Motion Studio](https://github.com/MeKing777/motion-studio)** — A WordPress plugin project.
+- **[Career Road Map](https://github.com/MeKing777/career-road-map)** — A project for mapping a career path.
+
+## 🛠️ Current loadout
+Python · JavaScript · HTML · Web development · Security-minded tools
+
+## 🎯 Next quest
+Keep learning, building, and shipping useful things—one level at a time.
