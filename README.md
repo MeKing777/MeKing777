@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://opengameart.org/sites/default/files/top_down_character_v4.png" alt="CC0 top-down RPG character animation sprite sheet" height="120">
+  <img src="https://raw.githubusercontent.com/MeKing777/MeKing777/main/assets/hero-walk.gif" alt="Animated pixel-art adventurer walking" width="180" height="180">
 </p>
-<p align="center"><sub>Character art: <a href="https://opengameart.org/content/pixel-art-top-down-dungeon-tileset-and-rpg-character-with-animations">OpenGameArt RPG pack (CC0)</a></sub></p>
+<p align="center"><sub>Character animation: <a href="https://opengameart.org/content/pixel-art-top-down-dungeon-tileset-and-rpg-character-with-animations">OpenGameArt RPG pack (CC0)</a></sub></p>
 
 <h1 align="center">⚔️ KING's Developer Quest Log</h1>
 <p align="center">Building useful web tools, security-minded projects, and creative plugins.</p>
