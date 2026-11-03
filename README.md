@@ -1,30 +1,28 @@
-<h1 align="center">⚔ KING's Developer Quest Log</h1>
-<p align="center">A working adventurer's map of security tools, web apps, and creative builds.</p>
-<p align="center"><a href="https://github.com/MeKing777?tab=repositories">🗺 Explore all repositories</a> · <a href="https://github.com/MeKing777">👤 Character profile</a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeKing777/MeKing777/main/assets/cyberpunk-neon-header.gif" alt="Animated neon cyberpunk horizon" width="100%">
+</p>
 
-## 🗡 Skill attacks in action
-
-<p align="center"><img src="https://raw.githubusercontent.com/MeKing777/MeKing777/main/assets/hero-skill-attacks.gif" alt="Pixel adventurer attacking with a blade arc, fireball, and lightning skills" width="640" height="320"></p>
-
-**Blade Arc** · **Python Fireball** · **Web Lightning** — three combat styles, inspired by the tools I build.
-
-## 🗺 The project overworld
-
-<p align="center"><img src="https://raw.githubusercontent.com/MeKing777/MeKing777/main/assets/overworld-map.png" alt="RPG overworld map linking four project quests: Guard Keep, Web Portal, Motion Lab, and Career Atlas" width="1000"></p>
-
-### Choose a quest
-
-| Map location | Project | Skill loadout |
-| --- | --- | --- |
-| 🛡️ **Guard Keep** | [Phishing & Spam Guard](https://github.com/MeKing777/phishing-spam-guard) | Python · email and URL security |
-| 🌐 **Web Portal** | [Phishing & Spam Guard Web](https://github.com/MeKing777/phishing-spam-guard-web) | Python · Streamlit · web scanning |
-| ✨ **Motion Lab** | [Motion Studio](https://github.com/MeKing777/motion-studio) | WordPress · PHP · JavaScript |
-| 🚩 **Career Atlas** | [AI Career Roadmap](https://github.com/MeKing777/career-road-map) | React · Vite · JavaScript |
-
-## 🎒 Character loadout
-
-**Class:** Software builder · **Main skills:** Python, JavaScript, HTML, WordPress · **Play style:** Learn by building, then keep improving.
+<h1 align="center">MeKing777 // NIGHT CITY DEV LOG</h1>
+<p align="center"><strong>Building tools for a safer, more useful web.</strong></p>
+<p align="center"><code>CONNECTION: SECURE</code> &nbsp; <code>STATUS: BUILDING</code> &nbsp; <code>STACK: PYTHON / JS / WORDPRESS</code></p>
 
 ---
 
-<p align="center"><sub>Pick a quest, explore the code, and follow the build.</sub></p>
+## ACTIVE SIGNALS
+
+| Channel | Build | What it does |
+| --- | --- | --- |
+| `01 / SECURITY` | [Phishing & Spam Guard](https://github.com/MeKing777/phishing-spam-guard) | Checks suspicious messages and links with local Windows tools. |
+| `02 / WEB DEMO` | [Phishing & Spam Guard Web](https://github.com/MeKing777/phishing-spam-guard-web) | Public Streamlit scanner for text and URLs submitted by visitors. |
+| `03 / CREATIVE TOOLS` | [Motion Studio](https://github.com/MeKing777/motion-studio) | WordPress visual editor for animation, effects, and page layouts. |
+| `04 / CAREER TECH` | [Career Road Map](https://github.com/MeKing777/career-road-map) | React/Vite project exploring career planning. |
+
+## LOADOUT
+
+`PYTHON` · `JAVASCRIPT` · `HTML / CSS` · `WORDPRESS` · `PHP`
+
+I learn by shipping practical projects, then iterating on what can work better.
+
+---
+
+<p align="center"><sub>Neon banner: Einoshima via <a href="https://commons.wikimedia.org/wiki/File:Neon_header_background.gif">Wikimedia Commons</a> · CC0 1.0</sub></p>
