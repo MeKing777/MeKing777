@@ -6,22 +6,32 @@
 
 ---
 
-### 01 // UPLINK
+### 01 // CONTRIBUTION PULSE
 
-I build practical tools for a safer, more useful web - from suspicious-link checks to creative WordPress tools. This is my public build log: projects, experiments, and the skills behind them.
+<p align="center"><a href="https://github.com/MeKing777?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeKing777&amp;theme=tokyonight" alt="Live GitHub contribution activity and profile overview" width="700"></a></p>
 
 <p align="center">
-  <a href="https://github.com/MeKing777?tab=repositories"><img src="https://img.shields.io/badge/SCAN-ALL_REPOSITORIES-00E8F0?style=for-the-badge&labelColor=10141F" alt="Scan all repositories"></a>
-  <a href="https://github.com/MeKing777?tab=projects"><img src="https://img.shields.io/badge/OPEN-PROJECTS-FF3998?style=for-the-badge&labelColor=10141F" alt="Open GitHub projects"></a>
+  <a href="https://github.com/MeKing777?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeKing777&amp;theme=tokyonight" alt="GitHub repository and contribution statistics" width="340"></a>
+  <a href="https://github.com/MeKing777?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeKing777&amp;theme=tokyonight&amp;utcOffset=5.5" alt="GitHub commit activity by time of day" width="340"></a>
 </p>
 
-### 02 // ACTIVE OPERATIONS
+<sub>Live profile cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a>. Open the chart to see the full GitHub activity page.</sub>
 
-| `01 / DEFENSE` | `02 / PUBLIC TERMINAL` |
-| --- | --- |
-| **[Phishing & Spam Guard](https://github.com/MeKing777/phishing-spam-guard)**<br>Python security toolkit for checking suspicious messages and links, with local Windows tools. | **[Phishing & Spam Guard Web](https://github.com/MeKing777/phishing-spam-guard-web)**<br>Public Streamlit demo for scanning text and URLs submitted by visitors. |
-| `03 / CREATIVE SYSTEMS` | `04 / CAREER TECH` |
-| **[Motion Studio](https://github.com/MeKing777/motion-studio)**<br>WordPress visual editor for animation, effects, and page layouts. | **[Career Road Map](https://github.com/MeKing777/career-road-map)**<br>React and Vite project exploring career planning. |
+### 02 // PROJECT WATCH
+
+<p align="center"><img src="https://raw.githubusercontent.com/MeKing777/MeKing777/main/assets/cyberpunk-project-watch.gif" alt="Animated cyberpunk sci-fi project watch cycling through all seven public repositories" width="100%"></p>
+
+The watch cycles through every **public repository**. Pick a channel to open the code:
+
+| Channel | Repository | Readout |
+| --- | --- | --- |
+| `01 / DEFENSE` | [Phishing & Spam Guard](https://github.com/MeKing777/phishing-spam-guard) | Python security tools for suspicious messages and links. |
+| `02 / WEB DEMO` | [Phishing & Spam Guard Web](https://github.com/MeKing777/phishing-spam-guard-web) | Public Streamlit scanner for submitted text and URLs. |
+| `03 / CREATIVE` | [Motion Studio](https://github.com/MeKing777/motion-studio) | WordPress visual editor for animation, effects, and layouts. |
+| `04 / CAREER TECH` | [Career Road Map](https://github.com/MeKing777/career-road-map) | React/Vite career-planning project. |
+| `05 / WEB BUILD` | [Repository_1](https://github.com/MeKing777/Repository_1) | Ridgeline Trail Co. frontend internship project. |
+| `06 / OPEN SLOT` | [intern_website](https://github.com/MeKing777/intern_website) | Public repository is currently empty. |
+| `07 / PROFILE HQ` | [MeKing777](https://github.com/MeKing777/MeKing777) | This profile and its cyberpunk project log. |
 
 ### 03 // TECH DECK
 
@@ -42,11 +52,8 @@ I build practical tools for a safer, more useful web - from suspicious-link chec
 03  Test it, learn, and upgrade the system.
 ```
 
-### 05 // NETWORK
-
-- [All repositories](https://github.com/MeKing777?tab=repositories)
-- [Phishing & Spam Guard Web demo](https://github.com/MeKing777/phishing-spam-guard-web)
+<p align="center"><a href="https://github.com/MeKing777?tab=repositories"><img src="https://img.shields.io/badge/SCAN-ALL_PUBLIC_REPOSITORIES-00E8F0?style=for-the-badge&labelColor=10141F" alt="Scan all public repositories"></a></p>
 
 ---
 
-<p align="center"><sub>Animated neon skyline: adapted from Einoshima's <a href="https://commons.wikimedia.org/wiki/File:Neon_header_background.gif">Wikimedia Commons</a> image · CC0 1.0</sub></p>
+<p align="center"><sub>Original sci-fi project-watch artwork. Animated neon skyline: adapted from Einoshima's <a href="https://commons.wikimedia.org/wiki/File:Neon_header_background.gif">Wikimedia Commons</a> image · CC0 1.0</sub></p>
